@@ -16,7 +16,3 @@ int bfree(void **ptr)
 	}
 	return (0);
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> 6293765784ccfba6d30dea33f8b5f5764d1d5a14
